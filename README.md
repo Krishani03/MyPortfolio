@@ -4,7 +4,7 @@
 
 [Wireframe](https://drive.google.com/file/d/1CKuZK_YttZ0UcW7FTofBwu2gO_izv-w4/view?usp=sharing)
 
-[Mockups](https://www.figma.com/design/atPN9FJkG4poUdSC0BNRiH/My-Portfolio-New?node-id=0-1&t=uS4nAiAYengRK7Iw-1) 
+[Mockups](https://www.figma.com/design/atPN9FJkG4poUdSC0BNRiH/My-Portfolio-New?node-id=1-773&t=rKr8VVkIX598dZtp-1) 
 
 
 
